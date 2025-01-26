@@ -4,6 +4,9 @@
 
 ![Screenshot 2025-01-27 020953](https://github.com/user-attachments/assets/f5a74cfa-e5ab-4119-a341-73e139ec8148)
 
+![Screenshot 2025-01-27 020824](https://github.com/user-attachments/assets/3381039a-7151-4c4b-a822-f4d9c9676098)
+
+
 
 ## Features
 
