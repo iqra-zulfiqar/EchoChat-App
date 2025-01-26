@@ -1,6 +1,7 @@
 # EchoChat
 
 **EchoChat** is a real-time messaging application built with a modern tech stack, including Express.js, Socket.IO, React, and MongoDB. It features user authentication, real-time messaging, and responsive design.
+
 ![Screenshot 2025-01-27 020953](https://github.com/user-attachments/assets/f5a74cfa-e5ab-4119-a341-73e139ec8148)
 
 
